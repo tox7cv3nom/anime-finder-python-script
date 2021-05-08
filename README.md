@@ -1,1 +1,1 @@
-this is a script gives all information abot any anime 
+this is a script gives all information about any anime 
