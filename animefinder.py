@@ -6,7 +6,13 @@ from termcolor import colored, cprint
 
 while True:
 	try:
-		texty = colored('#######made with love by v3nom <3########', 'blue')
+		texty = colored('              .__                   __                        __                  
+_____    ____ |__| _____   ____   _/  |_____________    ____ |  | __ ___________  
+\__  \  /    \|  |/     \_/ __ \  \   __\_  __ \__  \ _/ ___\|  |/ // __ \_  __ \ 
+ / __ \|   |  \  |  Y Y  \  ___/   |  |  |  | \// __ \\  \___|    <\  ___/|  | \/ 
+(____  /___|  /__|__|_|  /\___  >  |__|  |__|  (____  /\___  >__|_ \\___  >__|    
+     \/     \/         \/     \/                    \/     \/     \/    \/    ', 'blue')
+						
 		print(texty)
 		text = colored('Enter the name of anime:', 'cyan')
 		anime = input(text)
