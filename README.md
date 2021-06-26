@@ -1,1 +1,3 @@
-this is a script gives all information about any anime 
+![alt text](https://ibb.co/ZHq91yf)
+
+A simple script to find or track the anime 
