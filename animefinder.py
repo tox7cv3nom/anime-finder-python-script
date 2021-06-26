@@ -1,4 +1,4 @@
-import requests
+iimport requests
 from bs4 import BeautifulSoup
 import sys
 from termcolor import colored, cprint
@@ -6,12 +6,14 @@ from termcolor import colored, cprint
 
 while True:
 	try:
-		texty = colored('              .__                   __                        __                  
+		texty = colored('''
+
+               __                   __                        __                  
 _____    ____ |__| _____   ____   _/  |_____________    ____ |  | __ ___________  
 \__  \  /    \|  |/     \_/ __ \  \   __\_  __ \__  \ _/ ___\|  |/ // __ \_  __ \ 
  / __ \|   |  \  |  Y Y  \  ___/   |  |  |  | \// __ \\  \___|    <\  ___/|  | \/ 
 (____  /___|  /__|__|_|  /\___  >  |__|  |__|  (____  /\___  >__|_ \\___  >__|    
-     \/     \/         \/     \/                    \/     \/     \/    \/    ', 'blue')
+     \/     \/         \/     \/                    \/     \/     \/    \/    ''', 'blue')
 						
 		print(texty)
 		text = colored('Enter the name of anime:', 'cyan')
