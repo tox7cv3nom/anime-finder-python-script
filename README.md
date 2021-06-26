@@ -5,5 +5,6 @@
 A simple pure python script to find or track the anime from internet
 
 **Usage**
-
+git clone https://github.com/tox7cv3nom/anime-finder-python-script.git
+cd anime-finder-python-script
 python3 animetraker.py 
